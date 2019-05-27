@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SampleTask</string>
+    <string name="pleasewait">Please Wait</string>
+    <string name="pizza">Pizza</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="cost">Cost</string>
+    <string name="pizza_details">Pizza Details</string>
+
+</resources>
